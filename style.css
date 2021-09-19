@@ -1,0 +1,15 @@
+body {
+  display: grid;
+  place-items: center;
+}
+h1 {
+  margin: 10px;
+}
+svg {
+  margin: 2%;
+  border: solid 1px black;
+}
+
+textarea {
+  width: 100%;
+}
